@@ -3,6 +3,7 @@ Here you have a chess game made entirely with Qt
 
 Below is the CMakeList.txt file for compiling this project corectly.
 
+
 cmake_minimum_required(VERSION 3.26)
 project(CHESS_2_0)
 
